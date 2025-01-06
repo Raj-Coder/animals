@@ -5,3 +5,4 @@ Chickens
 Husky
 Pitbull
 George The Frog
+Trusy
